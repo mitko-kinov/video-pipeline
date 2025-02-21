@@ -1,0 +1,3 @@
+/home/mitkoPi/Projects/video-pipeline/build/CMakeFiles/video-pipeline.dir
+/home/mitkoPi/Projects/video-pipeline/build/CMakeFiles/edit_cache.dir
+/home/mitkoPi/Projects/video-pipeline/build/CMakeFiles/rebuild_cache.dir
